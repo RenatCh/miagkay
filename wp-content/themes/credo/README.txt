@@ -1,0 +1,1 @@
+Thank you using our theme!!!
