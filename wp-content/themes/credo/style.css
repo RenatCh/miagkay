@@ -16889,6 +16889,7 @@ ul.footer_sub_menu_col_2 li a,
     text-transform: uppercase;
     border: 0;
     font-weight: bold;
+	display: none;
 }
 .st-product-slider8 .woocommerce .product .item-description .meta_info .add-to-cart .button span.ftc-tooltip {
     display: inline-block;
