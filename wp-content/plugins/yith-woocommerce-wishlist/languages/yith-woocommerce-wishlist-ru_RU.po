@@ -368,7 +368,7 @@ msgstr ""
 #: includes/widgets/elementor/class-yith-wcwl-elementor-add-to-wishlist.php:118
 #: plugin-options/add_to_wishlist-options.php:127
 msgid "Add to wishlist"
-msgstr ""
+msgstr "Добавить в избранное"
 
 #: includes/widgets/elementor/class-yith-wcwl-elementor-add-to-wishlist.php:128
 #: plugin-options/add_to_wishlist-options.php:143
