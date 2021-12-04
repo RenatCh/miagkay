@@ -7027,6 +7027,7 @@ Product style
 		font-weight: bold;
 		text-transform: none;
 		font-size: 0;
+		display: none;
 	}
 	.yith-wcwl-add-to-wishlist {
 		position: relative;
@@ -7321,7 +7322,7 @@ Product style
 		    	font-size: 14px;
 		    	line-height: 24px;
 		    	color: #666;
-		    	height: 70px;
+		    	/*height: 70px;*/
 		    	overflow: hidden;
 		    	text-align: justify;
 		    	margin-bottom: 0
