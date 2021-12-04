@@ -7085,7 +7085,7 @@ Product style
 
 .woocommerce div.product .summary .woocommerce-product-rating {
 	float: left;
-	display: inline-block;
+	display: none;
 	width: 100%;
 }
 
@@ -7350,7 +7350,7 @@ Product style
 		    	margin-bottom: 0px;
 		    	color: #15bd9c;
 		    	font-size: 14px;
-		    	display: inline-block;
+		    	display: none;
 		    }
 		    .summary.entry-summary ins .woocommerce-Price-amount{
 		    	padding-left: 0;
