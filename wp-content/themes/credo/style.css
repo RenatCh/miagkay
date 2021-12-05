@@ -5215,6 +5215,7 @@ Product style
 	padding-top: 12px;
 	overflow: hidden;
 	transition: all 1s;
+	display: none;
 }
 .woocommerce .product .item-description  .meta_info a.compare.added, .woocommerce .product .item-description .meta_info .added_to_cart{
 	font-size: 0;
