@@ -7191,7 +7191,7 @@ Product style
 }
         div.product .summary .yith-wcwl-add-to-wishlist {
         	margin-left: 0px;
-        	margin-top: 10px;
+        	margin-top: -3px;
         	background: none !important;
 
         }
@@ -10408,7 +10408,7 @@ Product style
                     }
                     .nav-right div.dropdown-menu-header.appear-header {
                     	position: relative;
-                    	margin-top: 4px;
+                    	/*margin-top: 4px;*/
                     }
                     .dropdown-menu-header #dropdown-list {
                     	border-top: 2px solid;
