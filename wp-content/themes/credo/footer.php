@@ -24,40 +24,26 @@ if ($smof_data['ftc_mobile_layout']):
 		<div class="mobile-home">
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" >
 				<i class="fa fa-home"></i>
-				<?php esc_html_e('Home','ovanic'); ?>
+				<?php esc_html_e('Головнв','ovanic'); ?>
 			</a>   
 		</div>  
 		<div class="mobile-view-cart" >
 			<a href="<?php echo esc_url( home_url( '/?post_type=product' ) ); ?>" >
-				<i class="fa fa-compress "></i>
+				<i class="fa fa-bars "></i>
+                <?php esc_html_e('Каталог','ovanic'); ?>
 			</a>   
 		</div>
 		<div class="mobile-wishlist">
-			<?php
-			$wishlist_page = YITH_WCWL()->get_wishlist_url();
-			$count = yith_wcwl_count_products();
-			?>
-			<?php if( class_exists('YITH_WCWL')): ?>
-
-
-				<div class="ftc-my-wishlist"><?php echo ftc_tini_wishlist(); ?></div>
-			<?php endif; ?>
-
-		</div>
+            <a href="<?php echo esc_url( home_url( '/?page_id=801' ) ); ?>" >
+                <i class="fa fa-compress "></i>
+                <?php esc_html_e('Контакти','ovanic'); ?>
+            </a>
+        </div>
 		<div class="mobile-account">
-			<?php 
-			$_user_logged = is_user_logged_in();
-			ob_start();
-			?>
-			<a href="<?php echo esc_url(get_permalink(get_option('woocommerce_myaccount_page_id') ) ); ?>" title="<?php esc_html_e('Login','ovanic'); ?>">
-				<i class="fa fa-user"></i>
-				<?php if ($_user_logged): ?>
-					<?php esc_html_e('Account','ovanic'); ?>
-				<?php endif; ?>
-				<?php if (!$_user_logged): ?>
-					<?php esc_html_e('Login','ovanic'); ?>
-				<?php endif; ?>
-			</a>
+            <a href="<?php echo esc_url( home_url( '/?page_id=742' ) ); ?>" >
+                <i class="fa fa-address-card "></i>
+                <?php esc_html_e('О Нас','ovanic'); ?>
+            </a>
 		</div>
 	</div>
 <?php endif; ?>
