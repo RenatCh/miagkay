@@ -28,10 +28,8 @@ if ($smof_data['ftc_mobile_layout']):
 			</a>   
 		</div>  
 		<div class="mobile-view-cart" >
-			<a href="<?php echo esc_url( wc_get_cart_url() ); ?>" >
-				<i class="fa fa-shopping-cart"></i>
-				<?php esc_html_e('Cart','ovanic'); ?>
-				<?php echo ftc_cart_subtotal(); ?>
+			<a href="<?php echo esc_url( home_url( '/?post_type=product' ) ); ?>" >
+				<i class="fa fa-compress "></i>
 			</a>   
 		</div>
 		<div class="mobile-wishlist">
