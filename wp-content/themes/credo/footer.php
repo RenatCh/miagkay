@@ -24,7 +24,7 @@ if ($smof_data['ftc_mobile_layout']):
 		<div class="mobile-home">
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" >
 				<i class="fa fa-home"></i>
-				<?php esc_html_e('Головнв','ovanic'); ?>
+				<?php esc_html_e('Головна','ovanic'); ?>
 			</a>   
 		</div>  
 		<div class="mobile-view-cart" >
