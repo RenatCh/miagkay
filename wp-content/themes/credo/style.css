@@ -6439,7 +6439,7 @@ Product style
 .woocommerce .before-loop-wrapper .woocommerce-result-count,
 .woocommerce-page .before-loop-wrapper .woocommerce-result-count {
 	position: absolute;
-	right: 227px;
+	left: 50%;
 	font-size: 14px;
 	margin: 0;
 	line-height: 50px;
@@ -17613,4 +17613,7 @@ footer#colophon .ftc-footer .footer-top8a .widget-title,
 .header-ftc.header-layout8 #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text,
 .heading-blog.heading-title .wpb_wrapper h2{
     font-family: "Dosis" !important;
+}
+.wps-product-image{
+	min-height: 200px !important;
 }
