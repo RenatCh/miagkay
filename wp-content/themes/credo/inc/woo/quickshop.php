@@ -13,7 +13,7 @@ if( !empty($smof_data['ftc_enable_quickshop']) && ftc_has_woocommerce() && !clas
                 function add_quickshop_button(){
 			global $product;
 			$href = admin_url('admin-ajax.php', is_ssl()?'https':'http') . '?ajax=true&action=load_quickshop_content&product_id='.$product->get_id();
-			echo '<a class="quickview" href="'.esc_url($href).'"><i class="fa fa-eye"></i><span class="ftc-tooltip button-tooltip">'.esc_html__('Quick view', 'credo').'</span></a>';
+			echo '<a class="quickview" href="'.esc_url($href).'"><i class="fa fa-eye"></i><span class="ftc-tooltip button-tooltip">Детальніше</span></a>';
 		}
 		
 		function add_hook(){
