@@ -129,7 +129,7 @@ msgstr "Связаться с нами"
 
 #: inc/block-patterns.php:46
 msgid "Learn More"
-msgstr "Подробнее"
+msgstr "Детальніше"
 
 #: inc/block-patterns.php:42
 msgid "Eva Young Consulting was founded in 2014 to meet the needs of small businesses in the San Francisco Bay Area. We help startups define a clear brand identity and digital strategy that will carry them through their financing rounds and scale as their business grows. Discover how we can boost your brand with a unique and powerful digital marketing strategy."

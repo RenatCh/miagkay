@@ -9350,7 +9350,7 @@ msgstr ""
 #: include/./params/vc_grid_item/templates.php:85
 #: include/./templates/shortcodes/post_block/_item.php:27
 msgid "Read more"
-msgstr "Подробнее"
+msgstr "Детальніше"
 
 #: include/./params/vc_grid_item/templates.php:12
 msgid "Basic grid: Scale in with rotation"
