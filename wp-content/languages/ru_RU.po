@@ -7509,7 +7509,7 @@ msgstr "О нас"
 #: wp-includes/theme.php:2223 wp-includes/theme.php:2296
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Главная страница"
+msgstr "Головна страница"
 
 #: wp-includes/theme.php:2253
 msgctxt "Theme starter content"
@@ -10563,7 +10563,7 @@ msgstr "Элемент меню добавлен"
 #: wp-admin/includes/nav-menu.php:392
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr "Главная"
+msgstr "Головна"
 
 #: wp-includes/customize/class-wp-customize-new-menu-control.php:59
 #: wp-admin/nav-menus.php:971 wp-admin/nav-menus.php:1136
@@ -15161,7 +15161,7 @@ msgstr "%s [Автосохранение]"
 #: wp-includes/post-template.php:1436 wp-admin/menu.php:26
 #: wp-admin/network/menu.php:13
 msgid "Home"
-msgstr "Главная"
+msgstr "Головна"
 
 #: wp-includes/post-template.php:937
 #: wp-admin/includes/class-wp-list-table.php:937
