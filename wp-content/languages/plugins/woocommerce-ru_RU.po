@@ -2071,7 +2071,7 @@ msgstr "Просматривайте заказы и данные клиента
 #: packages/woocommerce-admin/src/Features/Navigation/Menu.php:189
 #: packages/woocommerce-admin/dist/app/index.js:2
 msgid "WooCommerce Home"
-msgstr "Главная WooCommerce"
+msgstr "Головна WooCommerce"
 
 #: packages/woocommerce-admin/src/Features/Navigation/Init.php:48
 msgid "Adds the new WooCommerce navigation experience to the dashboard"
@@ -4890,7 +4890,7 @@ msgstr "Принимайте платежи в удобной для вас си
 #: packages/woocommerce-admin/src/Features/Navigation/CoreMenu.php:190
 #: packages/woocommerce-admin/dist/app/index.js:2
 msgid "Home"
-msgstr "Главная страница"
+msgstr "Головна страница"
 
 #: packages/woocommerce-admin/src/Features/Analytics.php:198
 #: packages/woocommerce-admin/src/Features/Marketing.php:137
