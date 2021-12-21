@@ -23240,7 +23240,7 @@ msgstr "shipping"
 #: includes/wc-template-functions.php:2275
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr "Главная"
+msgstr "Головна"
 
 #: includes/widgets/class-wc-widget-products.php:62
 msgctxt "Sorting order"
@@ -29557,7 +29557,7 @@ msgstr "Произошла ошибка вызова %1$s: %2$s"
 #: includes/admin/class-wc-admin-assets.php:481
 #: packages/woocommerce-admin/src/Notes/WooCommerceSubscriptions.php:53
 msgid "Learn More"
-msgstr "Подробнее"
+msgstr "Детальніше"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:53
 msgid "Usage restriction"
@@ -31739,7 +31739,7 @@ msgstr "ММ / ГГ"
 #: packages/woocommerce-blocks/build/reviews-by-product.js:9
 #: packages/woocommerce-blocks/build/reviews-frontend.js:1
 msgid "Read more"
-msgstr " Подробнее"
+msgstr "Детальніше"
 
 #. Plugin Name of the plugin
 #: includes/admin/class-wc-admin-assets.php:105
