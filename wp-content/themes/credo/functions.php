@@ -768,7 +768,7 @@ if (!function_exists('ftc_get_search_form_by_category')) {
          <select class="select-category" name="term">' . $options . '</select>
          <div class="ftc_search_ajax">
          <div class="ajax-search-content">
-             <input type="text" value="' . get_search_query() . '" name="s" id="s' . $rand . '" placeholder="' . $placeholder_text . '" autocomplete="off" />
+             <input type="text" value="' . get_search_query() . '" name="s" id="s' . $rand . '" placeholder="Пошук" autocomplete="off" />
              
              <input type="hidden" title="' . esc_attr__('Search', 'credo') . '" id="searchsubmit' . $rand . '" value="' . esc_attr__('Search', 'credo') . '" />
                               <input type="hidden" name="post_type" value="' . $post_type . '" />
@@ -1131,7 +1131,7 @@ if (!function_exists('ftc_breadcrumbs')) {
 
             global $post;
             $homeLink = esc_url(home_url('/'));
-            echo '<a href="' . $homeLink . '">' . $home . '</a> ' . $delimiter . ' ';
+            echo '<a href="' . $homeLink . '">Головна</a> ' . $delimiter . ' ';
 
             if (is_category()) {
                 global $wp_query;
