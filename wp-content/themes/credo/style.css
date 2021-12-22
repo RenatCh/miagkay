@@ -17635,4 +17635,9 @@ footer#colophon .ftc-footer .footer-top8a .widget-title,
 		box-shadow: none;
 		object-fit: contain;
 	}
+	.woocommerce div.product div.images {
+		margin-bottom: 2em;
+		display: flex;
+		justify-content: center;
+	}
 }
