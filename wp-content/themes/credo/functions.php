@@ -1131,7 +1131,7 @@ if (!function_exists('ftc_breadcrumbs')) {
 
             global $post;
             $homeLink = esc_url(home_url('/'));
-            echo '<a href="' . $homeLink . '">Головна</a> ' . $delimiter . ' ';
+            echo '<a href="' . $homeLink . '">' . $home . '</a> ' . $delimiter . ' ';
 
             if (is_category()) {
                 global $wp_query;

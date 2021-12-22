@@ -17617,6 +17617,12 @@ footer#colophon .ftc-footer .footer-top8a .widget-title,
 .wps-product-image{
 	min-height: 200px !important;
 }
-@media (max-width: 768px){
-
+@media (min-width: 768px){
+	.woocommerce div.product div.images img {
+		display: block;
+		box-shadow: none;
+		width: 300px;
+		height: 200px;
+		object-fit: contain;
+	}
 }
