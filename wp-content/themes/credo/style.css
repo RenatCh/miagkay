@@ -11561,7 +11561,8 @@ Product style
 
 
     .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{
-    	border-radius: 0
+    	border-radius: 0;
+		left: 33%;
     }
     .span_top .span_top_left {
     	display: inline-block;
@@ -17623,6 +17624,15 @@ footer#colophon .ftc-footer .footer-top8a .widget-title,
 		box-shadow: none;
 		width: 300px;
 		height: 200px;
+		object-fit: contain;
+	}
+}
+@media (max-width: 768px){
+	.woocommerce div.product div.images img {
+		display: block;
+		width: 95%;
+		height: 133px;
+		box-shadow: none;
 		object-fit: contain;
 	}
 }
