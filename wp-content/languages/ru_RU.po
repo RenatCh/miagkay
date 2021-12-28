@@ -14382,7 +14382,7 @@ msgstr "Это действие запрещено администраторо�
 #. translators: %s: Page number.
 #: wp-includes/general-template.php:1205
 msgid "Page %s"
-msgstr "Страница %s"
+msgstr "Сторінка %s"
 
 #: wp-includes/load.php:283
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
