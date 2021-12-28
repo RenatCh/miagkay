@@ -22459,7 +22459,7 @@ msgstr "Результат поиска: &ldquo;%s&rdquo;"
 #. translators: %s: page number
 #: includes/wc-template-functions.php:1086
 msgid "&nbsp;&ndash; Page %s"
-msgstr "&nbsp;&ndash; Страница %s"
+msgstr "&nbsp;&ndash; Сторінка %s"
 
 #: includes/wc-template-functions.php:1451
 msgid "Sort by popularity"
@@ -24373,7 +24373,7 @@ msgstr "Функция получения корзины не должна вы�
 #: packages/woocommerce-blocks/build/all-products.js:25
 #: packages/woocommerce-blocks/build/all-products.js:27
 msgid "Page %d"
-msgstr "Страница %d"
+msgstr "Сторінка %d"
 
 #: includes/class-wc-cart.php:1169
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/add-to-cart/shared/product-unavailable.js:7
